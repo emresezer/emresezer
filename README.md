@@ -48,9 +48,9 @@
 
 | Project | Description |
 |---|---|
-| **Atomic‑Nucleus** | Modeling atomic nucleus density and radius using Python |
-| **Big‑Bang‑Simulation** | Simulating the Big Bang: physics + visualization |
-| **Hertzsprung‑Russell‑Diagram** | Visualizing stellar evolution with HR diagrams |
+| **Atomic‑Nucleus** | Creating density and radius graphs of atomic nuclei using Python |
+| **Moon-Phase-Calculator** | Calculating Moon Phases using Python |
+| **Hertzsprung‑Russell‑Diagram** | Visualization of the Hertzsprung–Russell Diagram using Python |
 
 > Check each repo for more details and code.
 
