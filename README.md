@@ -48,7 +48,7 @@
 
 | Project | Description |
 |---|---|
-| **Atomic‑Nucleus** | Creating density and radius graphs of atomic nuclei using Python |
+| **Cosmic-Redshift-Distance-Tracker** | Calculating cosmic redshift and distance using Python |
 | **Moon-Phase-Calculator** | Calculating Moon Phases using Python |
 | **Hertzsprung‑Russell‑Diagram** | Visualization of the Hertzsprung–Russell Diagram using Python |
 
