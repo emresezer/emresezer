@@ -48,9 +48,12 @@
 
 | Project | Description |
 |---|---|
+| **Hohmann-Transfer-Calculator-for-the-Solar-System** | Hohmann Transfer Calculator for the Solar System using Python |
 | **Cosmic-Redshift-Distance-Tracker** | Calculating cosmic redshift and distance using Python |
 | **Moon-Phase-Calculator** | Calculating Moon Phases using Python |
 | **Hertzsprung‑Russell‑Diagram** | Visualization of the Hertzsprung–Russell Diagram using Python |
+| **Star-Evolution-Simulator** | Star Evolution Simulator use Python | 
+
 
 > Check each repo for more details and code.
 
