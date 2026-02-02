@@ -1,9 +1,12 @@
 <div align="center">
   
 # Emre SEZER
-## Old-time captain, full time metalhead science nerd who sometimes aestoaphy
+I am a physicist driven by a desire to understand the cosmos while developing innovative technologies. I currently work as a researcher in the defense industry, while pursuing my M.Sc., with research projects focused on High-Energy Astrophysics.
 
-🚀 Physicist • Entrepreneur • Data Scientist • Astrophysics Student • Developer • Futurist ⚓
+In my scientific work, I do not focus solely on theoretical proofs; I also examine how knowledge is produced and transmitted, along with its ontological and epistemological foundations, within the critical theory paradigm.
+
+Through my technology brand, DUTlab, which I founded in 2018, I have established and led multiple multidisciplinary teams, delivering projects, producing publications, and providing educational programs aligned with this vision.
+
 
 <em>"With every new code line, another step towards exploring the universe..."</em>
 
