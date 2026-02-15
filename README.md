@@ -93,8 +93,9 @@ Through my technology brand, DUTlab, which I founded in 2018, I have established
 ## 📫 Contact & Socials
 
 - 🌐 Website: [emresezer.space](https://emresezer.space)  
-- 🔗 LinkedIn: [in/emreszer](https://www.linkedin.com/in/emreszer)  
-- 📷 Instagram: [@emreseight](https://www.instagram.com/emreseight)
+- 🔗 LinkedIn: [in/emreszer](https://www.linkedin.com/in/emresezer00)  
+- 📷 Instagram: [@aestoaphy](https://www.instagram.com/aestoaphy)
+- ✕ X: [@aestoaphy](https://www.instagram.com/aestoaphy)
 - ✉️ Email: [i.emresezer00@gmail.com](mailto:i.emresezer00@gmail.com)
 
 ---
