@@ -68,19 +68,10 @@ Through my technology brand, DUTlab, which I founded in 2018, I have established
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresezer&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 <p align="center">
-  <!-- Genel Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=emresezer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Trophy Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=emresezer&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <!-- GitHub Aktivite Grafiği (Capsule Render - Asla Çökmez!) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emresezer&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
